@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://abubudiluhur.github.io/vespa-classic-store/sitemap.xml
